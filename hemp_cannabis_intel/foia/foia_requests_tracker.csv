@@ -1,0 +1,17 @@
+state,state_name,agency,target_data,format,email,priority,notes
+AR,Arkansas,Arkansas Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@ar.gov,HIGH,No data in current dataset
+DE,Delaware,Delaware Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@de.gov,HIGH,No data in current dataset
+IA,Iowa,Iowa Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@ia.gov,HIGH,No data in current dataset
+ID,Idaho,Idaho Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@id.gov,HIGH,No data in current dataset
+IN,Indiana,Indiana Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@in.gov,HIGH,No data in current dataset
+KS,Kansas,Kansas Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@ks.gov,HIGH,No data in current dataset
+LA,Louisiana,Louisiana Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@la.gov,HIGH,No data in current dataset
+MS,Mississippi,Mississippi Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@ms.gov,HIGH,No data in current dataset
+NC,North Carolina,North Carolina Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@nc.gov,HIGH,No data in current dataset
+NE,Nebraska,Nebraska Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@ne.gov,HIGH,No data in current dataset
+NH,New Hampshire,New Hampshire Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@nh.gov,HIGH,No data in current dataset
+OK,Oklahoma,Oklahoma Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@ok.gov,HIGH,No data in current dataset
+RI,Rhode Island,Rhode Island Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@ri.gov,HIGH,No data in current dataset
+SC,South Carolina,South Carolina Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@sc.gov,HIGH,No data in current dataset
+TN,Tennessee,Tennessee Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@tn.gov,HIGH,No data in current dataset
+WY,Wyoming,Wyoming Department of Cannabis Control / Agriculture,Active hemp and cannabis business licenses with contact info,CSV or Excel,@wy.gov,HIGH,No data in current dataset
